@@ -1,11 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,50:5CA9E8,100:6EC1F7&height=200&section=header&text=Oleksandr%20Vereshchahin&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Development%20Lecturer%20|%20Full-Stack%20Developer&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,50:5CA9E8,100:6EC1F7&height=200&section=header&text=Olexandr%20Smidt&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Development%20Lecturer%20|%20Full-Stack%20Developer&descAlignY=55&descSize=18"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Teaching+at+UzhNU+College+%26+IT+Step;Building+the+Future+with+Code+%F0%9F%9A%80" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Lecturer-UzhNU%20College| IT%20Step%20Academy-4A90E2?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=2E5C8A" />
+  <img src="https://img.shields.io/badge/Lecturer-IT%20Step%20Academy|UzhNU%20College-4A90E2?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=2E5C8A" />
   <img src="https://img.shields.io/badge/Location-Uzhgorod%2C%20Ukraine-6EC1F7?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=2E5C8A" />
 </p>
 
@@ -17,7 +17,9 @@
 
 <br/>
 
-🎓 **Software Development Lecturer** at UzhNU College and IT Step Academy
+🎓 **Software Development Lecturer** at IT Step Academy and UzhNU College
+💼 **Freelance Developer**
+📈 **Investor** in Technology & Startups
 
 <br/>
 
@@ -25,7 +27,7 @@
 
 ✨ Teaching the next generation of developers
 
-🚀 Building full-stack web & desktop applications
+🚀 Building full-stack web, desktop & mobile applications
 
 🏗️ Implementing clean architecture & design patterns
 
@@ -41,38 +43,35 @@
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=php,cs,java,js,cpp,python&theme=light&perline=6" />
+<img src="https://skillicons.dev/icons?i=cs,php,java,js,ts,cpp,python&theme=light&perline=7" />
 
 ### Frontend Development
 
-<img src="https://skillicons.dev/icons?i=react,vue,html,css,sass,tailwind,bootstrap,vite&theme=light&perline=8" />
+<img src="https://skillicons.dev/icons?i=react,vue,angular,html,css,sass,tailwind,bootstrap,alpinejs,nextjs,nuxtjs,vite&theme=light&perline=12" />
 
 ### Backend Development
 
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,spring,hibernate&theme=light&perline=5" />
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,spring,laravel&theme=light&perline=6" />
 
-### Databases & Tools
+### Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,git,github,docker,linux,bash&theme=light&perline=10" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis&theme=light&perline=5" />
+
+### Tools & Other
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,bash,powershell,nginx,postman,vscode,vim,idea&theme=light&perline=12" />
 
 ### Desktop Development
 
 ![WPF](https://img.shields.io/badge/WPF-4A90E2?style=for-the-badge&logo=windows&logoColor=white)
 ![WinUI3](https://img.shields.io/badge/WinUI3-5CA9E8?style=for-the-badge&logo=windows&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-6EC1F7?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Design Patterns & Architecture
-
-![Repository](https://img.shields.io/badge/Repository_Pattern-4A90E2?style=for-the-badge&logoColor=white)
-![DAO](https://img.shields.io/badge/DAO_Pattern-5CA9E8?style=for-the-badge&logoColor=white)
-![DI/IoC](https://img.shields.io/badge/DI%2FIoC-6EC1F7?style=for-the-badge&logoColor=white)
-![SOLID](https://img.shields.io/badge/SOLID_Principles-4A90E2?style=for-the-badge&logoColor=white)
-![Clean Code](https://img.shields.io/badge/Clean_Code-5CA9E8?style=for-the-badge&logoColor=white)
-![MVVM](https://img.shields.io/badge/MVVM_Pattern-6EC1F7?style=for-the-badge&logoColor=white)
+![Blazor Hybrid](https://img.shields.io/badge/Blazor_Hybrid-4A90E2?style=for-the-badge&logo=blazor&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron_JS-5CA9E8?style=for-the-badge&logo=electron&logoColor=white)
 
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> GitHub Statistics
+## <img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" width="30" /> GitHub Statistics
 
 <div align="center">
 
@@ -196,21 +195,21 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"/>
 <h3>💻 Object-Oriented Programming</h3>
 <p><b>Technologies:</b> Java • C# • C++</p>
 <p><b>Level:</b> Beginner → Advanced</p>
 <p>Classes • Inheritance • Polymorphism<br/>SOLID Principles • Design Patterns</p>
 </td>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"/>
 <h3>🌐 Web Development</h3>
 <p><b>Technologies:</b> React • Vue.js • ASP.NET</p>
 <p><b>Level:</b> Beginner → Intermediate</p>
 <p>Frontend • Backend APIs<br/>Full-Stack Applications</p>
 </td>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"/>
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251013%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251013T074821Z&X-Amz-Expires=300&X-Amz-Signature=628d2c618163e45fd1c037d0d26b61f15a4a3869a2c6172f291a4cbd9ae8ab9e&X-Amz-SignedHeaders=host" width="100"/>
 <h3>🪟 Desktop Applications</h3>
 <p><b>Technologies:</b> WPF • WinUI3 • JavaFX</p>
 <p><b>Level:</b> Intermediate</p>
@@ -219,7 +218,7 @@
 </tr>
 <tr>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100"/>
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251013%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251013T074655Z&X-Amz-Expires=300&X-Amz-Signature=34e125914598aaffa2411848af4b9ea1e02fd106223226669fb0a62f1b26a744&X-Amz-SignedHeaders=host" width="100"/>
 <h3>🗄️ Database Design</h3>
 <p><b>Technologies:</b> SQL • JDBC • EF Core</p>
 <p><b>Level:</b> Beginner → Intermediate</p>
@@ -233,7 +232,7 @@
 <p>Architectural Patterns<br/>Best Practices • System Design</p>
 </td>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/>
 <h3>⚙️ Backend Development</h3>
 <p><b>Technologies:</b> ASP.NET • Node.js</p>
 <p><b>Level:</b> Intermediate → Advanced</p>
