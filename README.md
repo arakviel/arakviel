@@ -86,7 +86,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41fb-b390-e4fd1f47ae6d.png" width="30" /> Project Categories
 
-<details open>
+<details>
 <summary><b>🏗️ Architecture & Design Patterns</b></summary>
 <br>
 
@@ -103,7 +103,7 @@
 
 </details>
 
-<details open>
+<details>
 <summary><b>🌐 Web Development</b></summary>
 <br>
 
@@ -122,7 +122,7 @@
 
 </details>
 
-<details open>
+<details>
 <summary><b>💻 Desktop Applications</b></summary>
 <br>
 
@@ -139,7 +139,7 @@
 
 </details>
 
-<details open>
+<details>
 <summary><b>🌍 Localization (i18n/l10n)</b></summary>
 <br>
 
@@ -156,7 +156,7 @@
 
 </details>
 
-<details open>
+<details>
 <summary><b>🗄️ Database & ORM</b></summary>
 <br>
 
@@ -172,7 +172,7 @@
 
 </details>
 
-<details open>
+<details>
 <summary><b>📚 Educational Resources</b></summary>
 <br>
 
@@ -209,7 +209,7 @@
 <p>Frontend • Backend APIs<br/>Full-Stack Applications</p>
 </td>
 <td align="center" width="33%">
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251013%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251013T074821Z&X-Amz-Expires=300&X-Amz-Signature=628d2c618163e45fd1c037d0d26b61f15a4a3869a2c6172f291a4cbd9ae8ab9e&X-Amz-SignedHeaders=host" width="100"/>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100">
 <h3>🪟 Desktop Applications</h3>
 <p><b>Technologies:</b> WPF • WinUI3 • JavaFX</p>
 <p><b>Level:</b> Intermediate</p>
@@ -218,7 +218,7 @@
 </tr>
 <tr>
 <td align="center" width="33%">
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251013%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251013T074655Z&X-Amz-Expires=300&X-Amz-Signature=34e125914598aaffa2411848af4b9ea1e02fd106223226669fb0a62f1b26a744&X-Amz-SignedHeaders=host" width="100"/>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
 <h3>🗄️ Database Design</h3>
 <p><b>Technologies:</b> SQL • JDBC • EF Core</p>
 <p><b>Level:</b> Beginner → Intermediate</p>
