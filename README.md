@@ -1,300 +1,211 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,50:5CA9E8,100:6EC1F7&height=200&section=header&text=Olexandr%20Smidt&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Development%20Lecturer%20|%20Full-Stack%20Developer&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0d0d0d,100:1a0008&height=180&section=header&text=Oleksandr%20Smidt&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Lecturer%20%7C%20Fullstack%20Developer%20%7C%20Tech%20Investor&descSize=15&descAlignY=62&descColor=e81e4d" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Teaching+at+UzhNU+College+%26+IT+Step;Building+the+Future+with+Code+%F0%9F%9A%80" alt="Typing SVG" />
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Lecturer-IT%20Step%20Academy|UzhNU%20College-4A90E2?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=2E5C8A" />
-  <img src="https://img.shields.io/badge/Location-Uzhgorod%2C%20Ukraine-6EC1F7?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=2E5C8A" />
-</p>
+[![kostyl.dev](https://img.shields.io/badge/kostyl.dev-e81e4d?style=flat-square&logo=googlechrome&logoColor=white&labelColor=111111)](https://github.com/arakviel/kostyl.dev)
+[![IT Step](https://img.shields.io/badge/IT%20Step%20Academy-Lecturer-e81e4d?style=flat-square&logo=googlescholar&logoColor=white&labelColor=111111)](https://itstep.org)
+[![UzhNU](https://img.shields.io/badge/UzhNU%20College-Lecturer-ffffff?style=flat-square&logo=googlescholar&logoColor=e81e4d&labelColor=111111)](https://www.college.uzhnu.edu.ua/)
 
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
+## `$ whoami`
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" />
+```yaml
+name: Oleksandr Smidt
+alias: arakviel
+role: Software Development Lecturer + Fullstack Developer
+location: Uzhhorod, Ukraine
+languages: [C#, Java, TypeScript, JavaScript, Python, PHP, C++, SQL]
+teaching: [IT Step Academy, UzhNU College]
+focus: [Web development, Clean Architecture, Design Patterns, Full-Stack, Desktop, Mobile]
+interests: [Technology Startups, EdTech, Open Source, Developer Tooling]
+open_to: [Collaboration, Consulting, Speaking, Mentoring, Freelance]
+status: actively teaching + building
+```
+
+## Languages
+
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=e81e4d)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=e81e4d)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=e81e4d)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=e81e4d)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=e81e4d)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=e81e4d)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=e81e4d)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=databricks&logoColor=e81e4d)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=e81e4d)
+![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=e81e4d)
+
+## Frontend
+
+![Vue.js](https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vuedotjs&logoColor=e81e4d)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=e81e4d)
+![Angular](https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=e81e4d)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-000000?style=for-the-badge&logo=nuxtdotjs&logoColor=e81e4d)
+![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=e81e4d)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=e81e4d)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=e81e4d)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-000000?style=for-the-badge&logo=alpinedotjs&logoColor=e81e4d)
+![Sass](https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=e81e4d)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=e81e4d)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=e81e4d)
+
+## Backend
+
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-000000?style=for-the-badge&logo=dotnet&logoColor=e81e4d)
+![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=e81e4d)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=e81e4d)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=ffffff)
+![Spring](https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=e81e4d)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-000000?style=for-the-badge&logo=springboot&logoColor=e81e4d)
+![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=e81e4d)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=ffffff)
+![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=e81e4d)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=e81e4d)
+![GraphQL](https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=graphql&logoColor=e81e4d)
+![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=socketdotio&logoColor=ffffff)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=e81e4d)
+
+## Desktop & Mobile
+
+![WPF](https://img.shields.io/badge/WPF-000000?style=for-the-badge&logo=windows&logoColor=e81e4d)
+![WinUI 3](https://img.shields.io/badge/WinUI%203-000000?style=for-the-badge&logo=windows&logoColor=e81e4d)
+![JavaFX](https://img.shields.io/badge/JavaFX-000000?style=for-the-badge&logo=openjdk&logoColor=e81e4d)
+![Blazor Hybrid](https://img.shields.io/badge/Blazor%20Hybrid-000000?style=for-the-badge&logo=blazor&logoColor=e81e4d)
+![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-000000?style=for-the-badge&logo=dotnet&logoColor=e81e4d)
+![Electron](https://img.shields.io/badge/Electron-000000?style=for-the-badge&logo=electron&logoColor=e81e4d)
+![React Native](https://img.shields.io/badge/React%20Native-000000?style=for-the-badge&logo=react&logoColor=e81e4d)
+
+## Databases & ORM
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=e81e4d)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=e81e4d)
+![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=e81e4d)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=e81e4d)
+![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=e81e4d)
+![MariaDB](https://img.shields.io/badge/MariaDB-000000?style=for-the-badge&logo=mariadb&logoColor=e81e4d)
+![EF Core](https://img.shields.io/badge/EF%20Core-000000?style=for-the-badge&logo=dotnet&logoColor=e81e4d)
+![Hibernate](https://img.shields.io/badge/Hibernate-000000?style=for-the-badge&logo=hibernate&logoColor=e81e4d)
+![Dapper](https://img.shields.io/badge/Dapper-000000?style=for-the-badge&logo=dotnet&logoColor=ffffff)
+![JDBC](https://img.shields.io/badge/JDBC-000000?style=for-the-badge&logo=openjdk&logoColor=ffffff)
+
+## DevOps & Tools
+
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=e81e4d)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=e81e4d)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-000000?style=for-the-badge&logo=docker&logoColor=e81e4d)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000000?style=for-the-badge&logo=githubactions&logoColor=e81e4d)
+![Nginx](https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=e81e4d)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=e81e4d)
+![PowerShell](https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=powershell&logoColor=e81e4d)
+![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=e81e4d)
+![Swagger](https://img.shields.io/badge/Swagger-000000?style=for-the-badge&logo=swagger&logoColor=e81e4d)
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=e81e4d)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-000000?style=for-the-badge&logo=visualstudio&logoColor=e81e4d)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=e81e4d)
+![Vim](https://img.shields.io/badge/Vim-000000?style=for-the-badge&logo=vim&logoColor=e81e4d)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=e81e4d)
+
+## Architecture & Concepts
+
+![SOLID](https://img.shields.io/badge/SOLID-000000?style=for-the-badge&logoColor=e81e4d)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-000000?style=for-the-badge&logoColor=e81e4d)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge&logoColor=e81e4d)
+![DDD](https://img.shields.io/badge/Domain%20Driven%20Design-000000?style=for-the-badge&logoColor=e81e4d)
+![TDD](https://img.shields.io/badge/TDD-000000?style=for-the-badge&logoColor=e81e4d)
+![MVVM](https://img.shields.io/badge/MVVM-000000?style=for-the-badge&logo=windows&logoColor=e81e4d)
+![MVC](https://img.shields.io/badge/MVC-000000?style=for-the-badge&logo=dotnet&logoColor=e81e4d)
+![Repository Pattern](https://img.shields.io/badge/Repository%20Pattern-000000?style=for-the-badge&logoColor=e81e4d)
+![IoC / DI](https://img.shields.io/badge/IoC%20%2F%20DI-000000?style=for-the-badge&logo=spring&logoColor=e81e4d)
+![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logoColor=e81e4d)
+![OOP](https://img.shields.io/badge/OOP-000000?style=for-the-badge&logoColor=e81e4d)
+![i18n / l10n](https://img.shields.io/badge/i18n%20%2F%20l10n-000000?style=for-the-badge&logoColor=e81e4d)
+
+## Featured Repositories
+
+<details>
+<summary><b>Architecture & Design Patterns</b></summary>
+<br>
+
+| Repository                                                                         | Description                                        | Stack                                                                                           |
+| ---------------------------------------------------------------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| [persistence-layer-by-dao](https://github.com/arakviel/persistence-layer-by-dao)   | Native Persistence Layer — Data Mapper + JDBC + H2 | ![Java](https://img.shields.io/badge/-Java-000?style=flat-square&logo=openjdk&logoColor=e81e4d) |
+| [repository-pattern-csharp](https://github.com/arakviel/repository-pattern-csharp) | Repository Pattern implementation                  | ![C#](https://img.shields.io/badge/-C%23-000?style=flat-square&logo=csharp&logoColor=e81e4d)    |
+| [own-ioc-example](https://github.com/arakviel/own-ioc-example)                     | Custom IoC container from scratch                  | ![C#](https://img.shields.io/badge/-C%23-000?style=flat-square&logo=csharp&logoColor=e81e4d)    |
+| [di-samples](https://github.com/arakviel/di-samples)                               | Dependency Injection patterns and samples          | ![C#](https://img.shields.io/badge/-C%23-000?style=flat-square&logo=csharp&logoColor=e81e4d)    |
+
+</details>
+
+<details>
+<summary><b>Web Development</b></summary>
+<br>
+
+| Repository                                                                                 | Description                       | Stack                                                                                                |
+| ------------------------------------------------------------------------------------------ | --------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| [cineflow](https://github.com/arakviel/cineflow)                                           | Cinema Management System          | ![C#](https://img.shields.io/badge/-ASP.NET-000?style=flat-square&logo=dotnet&logoColor=e81e4d)      |
+| [todolist-vue3](https://github.com/arakviel/todolist-vue3)                                 | Modern Todo App — Vue 3 + ASP.NET | ![Vue](https://img.shields.io/badge/-Vue-000?style=flat-square&logo=vuedotjs&logoColor=e81e4d)       |
+| [react-cart-sample](https://github.com/arakviel/react-cart-sample)                         | Shopping Cart — React Context API | ![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=react&logoColor=e81e4d)      |
+| [chat-websockets-server-nodejs](https://github.com/arakviel/chat-websockets-server-nodejs) | Real-time WebSocket Chat Server   | ![Node](https://img.shields.io/badge/-Node.js-000?style=flat-square&logo=nodedotjs&logoColor=e81e4d) |
+| [webapi-blog-sample](https://github.com/arakviel/webapi-blog-sample)                       | Blog REST API                     | ![C#](https://img.shields.io/badge/-ASP.NET-000?style=flat-square&logo=dotnet&logoColor=e81e4d)      |
+| [kostyl.dev](https://github.com/arakviel/kostyl.dev)                                       | kostyl.dev — Vue project          | ![Vue](https://img.shields.io/badge/-Vue-000?style=flat-square&logo=vuedotjs&logoColor=e81e4d)       |
+
+</details>
+
+<details>
+<summary><b>Desktop Applications</b></summary>
+<br>
+
+| Repository                                                                               | Description               | Stack                                                                                               |
+| ---------------------------------------------------------------------------------------- | ------------------------- | --------------------------------------------------------------------------------------------------- |
+| [library-winui-app](https://github.com/arakviel/library-winui-app)                       | Library Management System | ![WinUI3](https://img.shields.io/badge/-WinUI3-000?style=flat-square&logo=windows&logoColor=e81e4d) |
+| [recipebook-wpf-app](https://github.com/arakviel/recipebook-wpf-app)                     | Recipe Book Management    | ![WPF](https://img.shields.io/badge/-WPF-000?style=flat-square&logo=windows&logoColor=e81e4d)       |
+| [todo-list-mvvm-javafx-sample](https://github.com/arakviel/todo-list-mvvm-javafx-sample) | MVVM Todo App — JavaFX    | ![JavaFX](https://img.shields.io/badge/-JavaFX-000?style=flat-square&logo=openjdk&logoColor=e81e4d) |
+| [signin-signup-sample-winui3](https://github.com/arakviel/signin-signup-sample-winui3)   | Authentication UI Samples | ![WinUI3](https://img.shields.io/badge/-WinUI3-000?style=flat-square&logo=windows&logoColor=e81e4d) |
+
+</details>
+
+<details>
+<summary><b>Localization — i18n / l10n</b></summary>
+<br>
+
+| Repository                                                                           | Description                | Stack                                                                                               |
+| ------------------------------------------------------------------------------------ | -------------------------- | --------------------------------------------------------------------------------------------------- |
+| [l10i-wpf-dynamic-sample](https://github.com/arakviel/l10i-wpf-dynamic-sample)       | WPF Dynamic Localization   | ![WPF](https://img.shields.io/badge/-WPF-000?style=flat-square&logo=windows&logoColor=e81e4d)       |
+| [l10i-winui3-dynamic-sample](https://github.com/arakviel/l10i-winui3-dynamic-sample) | WinUI3 Localization        | ![WinUI3](https://img.shields.io/badge/-WinUI3-000?style=flat-square&logo=windows&logoColor=e81e4d) |
+| [AspNet.L10nSample](https://github.com/arakviel/AspNet.L10nSample)                   | ASP.NET Core Localization  | ![C#](https://img.shields.io/badge/-ASP.NET-000?style=flat-square&logo=dotnet&logoColor=e81e4d)     |
+| [AspNet.L10nDbSample](https://github.com/arakviel/AspNet.L10nDbSample)               | Localization from Database | ![C#](https://img.shields.io/badge/-ASP.NET-000?style=flat-square&logo=dotnet&logoColor=e81e4d)     |
+| [AspNet.CachingSamples](https://github.com/arakviel/AspNet.CachingSamples)           | Caching Strategies         | ![C#](https://img.shields.io/badge/-ASP.NET-000?style=flat-square&logo=dotnet&logoColor=e81e4d)     |
+
+</details>
+
+<details>
+<summary><b>Educational Resources</b></summary>
+<br>
+
+| Repository                                                                                                           | Description                            | Stack                                                                                                  |
+| -------------------------------------------------------------------------------------------------------------------- | -------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| [college](https://github.com/arakviel/college)                                                                       | Lecture Materials for College Students | ![TS](https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript&logoColor=e81e4d) |
+| [java-io-cheat-sheet](https://github.com/arakviel/java-io-cheat-sheet)                                               | Java I/O & NIO Cheat Sheet             | ![Java](https://img.shields.io/badge/-Java-000?style=flat-square&logo=openjdk&logoColor=e81e4d)        |
+| [book-cpp-sample](https://github.com/arakviel/book-cpp-sample)                                                       | C++ Demo Project                       | ![C++](https://img.shields.io/badge/-C++-000?style=flat-square&logo=cplusplus&logoColor=e81e4d)        |
+| [ef-core-samples](https://github.com/arakviel/ef-core-samples)                                                       | Entity Framework Core Samples          | ![C#](https://img.shields.io/badge/-EF%20Core-000?style=flat-square&logo=dotnet&logoColor=e81e4d)      |
+| [audiobooks-library-pr2-sample-project-java](https://github.com/arakviel/audiobooks-library-pr2-sample-project-java) | Audiobooks Library System              | ![Java](https://img.shields.io/badge/-Java-000?style=flat-square&logo=openjdk&logoColor=e81e4d)        |
+
+</details>
 
 <br/>
 
-🎓 **Software Development Lecturer** at IT Step Academy and UzhNU College
-💼 **Freelance Developer**
-📈 **Investor** in Technology & Startups
-
-<br/>
-
-### 🌟 What I Do
-
-✨ Teaching the next generation of developers
-
-🚀 Building full-stack web, desktop & mobile applications
-
-🏗️ Implementing clean architecture & design patterns
-
-📚 Creating educational content & resources
-
-💡 Mentoring students in software development
-
-<br clear="right"/>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216655832-f5fe3f6c-6581-4c2d-8203-04d31a574c02.gif" width="30" /> Tech Stack
-
 <div align="center">
 
-### Programming Languages
-
-<img src="https://skillicons.dev/icons?i=cs,php,java,js,ts,cpp,python&theme=light&perline=7" />
-
-### Frontend Development
-
-<img src="https://skillicons.dev/icons?i=react,vue,angular,html,css,sass,tailwind,bootstrap,alpinejs,nextjs,nuxtjs,vite&theme=light&perline=12" />
-
-### Backend Development
-
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,spring,laravel&theme=light&perline=6" />
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis&theme=light&perline=5" />
-
-### Tools & Other
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,bash,powershell,nginx,postman,vscode,vim,idea&theme=light&perline=12" />
-
-### Desktop Development
-
-![WPF](https://img.shields.io/badge/WPF-4A90E2?style=for-the-badge&logo=windows&logoColor=white)
-![WinUI3](https://img.shields.io/badge/WinUI3-5CA9E8?style=for-the-badge&logo=windows&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-6EC1F7?style=for-the-badge&logo=openjdk&logoColor=white)
-![Blazor Hybrid](https://img.shields.io/badge/Blazor_Hybrid-4A90E2?style=for-the-badge&logo=blazor&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron_JS-5CA9E8?style=for-the-badge&logo=electron&logoColor=white)
-
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" width="30" /> GitHub Statistics
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=arakviel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=E3F2FD&title_color=1976D2&icon_color=4A90E2&text_color=1565C0&count_private=true&include_all_commits=true&border_radius=10" alt="GitHub Stats"/>
-<img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=arakviel&theme=tokyonight&hide_border=true&background=E3F2FD&ring=1976D2&fire=4A90E2&currStreakLabel=1565C0&sideLabels=1976D2&dates=1565C0&currStreakNum=1976D2&border_radius=10" alt="GitHub Streak"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=arakviel&theme=flat&no-frame=true&no-bg=true&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues&margin-w=10" width="100%" alt="GitHub Trophies"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arakviel&bg_color=E3F2FD&color=1976D2&line=4A90E2&point=1565C0&area=true&hide_border=true&border_radius=10" width="100%" alt="Contribution Graph"/>
-
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41fb-b390-e4fd1f47ae6d.png" width="30" /> Project Categories
-
-<details>
-<summary><b>🏗️ Architecture & Design Patterns</b></summary>
-<br>
-
-<div align="center">
-
-| Repository                                                                         | Description                       | Stack                                                                                             | ⭐  |
-| :--------------------------------------------------------------------------------- | :-------------------------------- | :------------------------------------------------------------------------------------------------ | :-- |
-| [persistence-layer-by-dao](https://github.com/arakviel/persistence-layer-by-dao)   | Data Mapper Pattern with JDBC     | ![Java](https://img.shields.io/badge/-Java-4A90E2?style=flat-square&logo=openjdk&logoColor=white) | 1   |
-| [repository-pattern-csharp](https://github.com/arakviel/repository-pattern-csharp) | Repository Pattern Implementation | ![C#](https://img.shields.io/badge/-C%23-5CA9E8?style=flat-square&logo=c-sharp&logoColor=white)   | 1   |
-| [own-ioc-example](https://github.com/arakviel/own-ioc-example)                     | Custom IoC Container              | ![C#](https://img.shields.io/badge/-C%23-6EC1F7?style=flat-square&logo=c-sharp&logoColor=white)   | -   |
-| [di-samples](https://github.com/arakviel/di-samples)                               | Dependency Injection Samples      | ![C#](https://img.shields.io/badge/-C%23-4A90E2?style=flat-square&logo=c-sharp&logoColor=white)   | -   |
-
-</div>
-
-</details>
-
-<details>
-<summary><b>🌐 Web Development</b></summary>
-<br>
-
-<div align="center">
-
-| Repository                                                                                 | Description                | Stack                                                                                                    | ⭐  |
-| :----------------------------------------------------------------------------------------- | :------------------------- | :------------------------------------------------------------------------------------------------------- | :-- |
-| [cineflow](https://github.com/arakviel/cineflow)                                           | Cinema Management System   | ![ASP.NET](https://img.shields.io/badge/-ASP.NET-4A90E2?style=flat-square&logo=.net&logoColor=white)     | 1   |
-| [todolist-vue3](https://github.com/arakviel/todolist-vue3)                                 | Modern Todo Application    | ![Vue](https://img.shields.io/badge/-Vue.js-5CA9E8?style=flat-square&logo=vue.js&logoColor=white)        | 1   |
-| [react-cart-sample](https://github.com/arakviel/react-cart-sample)                         | Shopping Cart with Context | ![React](https://img.shields.io/badge/-React-6EC1F7?style=flat-square&logo=react&logoColor=white)        | -   |
-| [webapi-blog-sample](https://github.com/arakviel/webapi-blog-sample)                       | Blog REST API              | ![ASP.NET](https://img.shields.io/badge/-ASP.NET-4A90E2?style=flat-square&logo=.net&logoColor=white)     | -   |
-| [chat-websockets-server-nodejs](https://github.com/arakviel/chat-websockets-server-nodejs) | WebSocket Chat Server      | ![Node.js](https://img.shields.io/badge/-Node.js-5CA9E8?style=flat-square&logo=node.js&logoColor=white)  | -   |
-| [todo-app-vanilla-js](https://github.com/arakviel/todo-app-vanilla-js)                     | Vanilla JS + Vite Todo App | ![JS](https://img.shields.io/badge/-JavaScript-6EC1F7?style=flat-square&logo=javascript&logoColor=white) | -   |
-
-</div>
-
-</details>
-
-<details>
-<summary><b>💻 Desktop Applications</b></summary>
-<br>
-
-<div align="center">
-
-| Repository                                                                               | Description               | Stack                                                                                                 | ⭐  |
-| :--------------------------------------------------------------------------------------- | :------------------------ | :---------------------------------------------------------------------------------------------------- | :-- |
-| [recipebook-wpf-app](https://github.com/arakviel/recipebook-wpf-app)                     | Recipe Book Management    | ![WPF](https://img.shields.io/badge/-WPF-4A90E2?style=flat-square&logo=windows&logoColor=white)       | -   |
-| [library-winui-app](https://github.com/arakviel/library-winui-app)                       | Library Management System | ![WinUI3](https://img.shields.io/badge/-WinUI3-5CA9E8?style=flat-square&logo=windows&logoColor=white) | -   |
-| [todo-list-mvvm-javafx-sample](https://github.com/arakviel/todo-list-mvvm-javafx-sample) | JavaFX MVVM Todo App      | ![JavaFX](https://img.shields.io/badge/-JavaFX-6EC1F7?style=flat-square&logo=openjdk&logoColor=white) | -   |
-| [signin-signup-sample-winui3](https://github.com/arakviel/signin-signup-sample-winui3)   | Authentication UI Samples | ![WinUI3](https://img.shields.io/badge/-WinUI3-4A90E2?style=flat-square&logo=windows&logoColor=white) | -   |
-
-</div>
-
-</details>
-
-<details>
-<summary><b>🌍 Localization (i18n/l10n)</b></summary>
-<br>
-
-<div align="center">
-
-| Repository                                                                           | Description              | Stack                                                                                                 | ⭐  |
-| :----------------------------------------------------------------------------------- | :----------------------- | :---------------------------------------------------------------------------------------------------- | :-- |
-| [l10i-wpf-dynamic-sample](https://github.com/arakviel/l10i-wpf-dynamic-sample)       | WPF Dynamic Localization | ![WPF](https://img.shields.io/badge/-WPF-4A90E2?style=flat-square&logo=windows&logoColor=white)       | 1   |
-| [l10i-winui3-dynamic-sample](https://github.com/arakviel/l10i-winui3-dynamic-sample) | WinUI3 Localization      | ![WinUI3](https://img.shields.io/badge/-WinUI3-5CA9E8?style=flat-square&logo=windows&logoColor=white) | -   |
-| [AspNet.L10nSample](https://github.com/arakviel/AspNet.L10nSample)                   | ASP.NET Localization     | ![ASP.NET](https://img.shields.io/badge/-ASP.NET-6EC1F7?style=flat-square&logo=.net&logoColor=white)  | -   |
-| [AspNet.L10nDbSample](https://github.com/arakviel/AspNet.L10nDbSample)               | Database Localization    | ![ASP.NET](https://img.shields.io/badge/-ASP.NET-4A90E2?style=flat-square&logo=.net&logoColor=white)  | -   |
-
-</div>
-
-</details>
-
-<details>
-<summary><b>🗄️ Database & ORM</b></summary>
-<br>
-
-<div align="center">
-
-| Repository                                                                     | Description              | Stack                                                                                                | ⭐  |
-| :----------------------------------------------------------------------------- | :----------------------- | :--------------------------------------------------------------------------------------------------- | :-- |
-| [ef-core-samples](https://github.com/arakviel/ef-core-samples)                 | Entity Framework Samples | ![EF](https://img.shields.io/badge/-EF_Core-4A90E2?style=flat-square&logo=.net&logoColor=white)      | -   |
-| [localblog-efcore-sample](https://github.com/arakviel/localblog-efcore-sample) | Blog with EF Core        | ![EF](https://img.shields.io/badge/-EF_Core-5CA9E8?style=flat-square&logo=.net&logoColor=white)      | -   |
-| [AspNet.CachingSamples](https://github.com/arakviel/AspNet.CachingSamples)     | Caching Strategies       | ![ASP.NET](https://img.shields.io/badge/-ASP.NET-6EC1F7?style=flat-square&logo=.net&logoColor=white) | -   |
-
-</div>
-
-</details>
-
-<details>
-<summary><b>📚 Educational Resources</b></summary>
-<br>
-
-<div align="center">
-
-| Repository                                                                                                           | Description               | Stack                                                                                             | ⭐  |
-| :------------------------------------------------------------------------------------------------------------------- | :------------------------ | :------------------------------------------------------------------------------------------------ | :-- |
-| [java-io-cheat-sheet](https://github.com/arakviel/java-io-cheat-sheet)                                               | Java I/O & NIO Examples   | ![Java](https://img.shields.io/badge/-Java-4A90E2?style=flat-square&logo=openjdk&logoColor=white) | -   |
-| [book-cpp-sample](https://github.com/arakviel/book-cpp-sample)                                                       | C++ Demo Project          | ![C++](https://img.shields.io/badge/-C++-5CA9E8?style=flat-square&logo=c%2B%2B&logoColor=white)   | -   |
-| [audiobooks-library-pr2-sample-project-java](https://github.com/arakviel/audiobooks-library-pr2-sample-project-java) | Audiobooks Library System | ![Java](https://img.shields.io/badge/-Java-6EC1F7?style=flat-square&logo=openjdk&logoColor=white) | -   |
-
-</div>
-
-</details>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="30" /> Teaching Focus
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"/>
-<h3>💻 Object-Oriented Programming</h3>
-<p><b>Technologies:</b> Java • C# • C++</p>
-<p><b>Level:</b> Beginner → Advanced</p>
-<p>Classes • Inheritance • Polymorphism<br/>SOLID Principles • Design Patterns</p>
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"/>
-<h3>🌐 Web Development</h3>
-<p><b>Technologies:</b> React • Vue.js • ASP.NET</p>
-<p><b>Level:</b> Beginner → Intermediate</p>
-<p>Frontend • Backend APIs<br/>Full-Stack Applications</p>
-</td>
-<td align="center" width="33%">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100">
-<h3>🪟 Desktop Applications</h3>
-<p><b>Technologies:</b> WPF • WinUI3 • JavaFX</p>
-<p><b>Level:</b> Intermediate</p>
-<p>Windows Apps • UI/UX<br/>MVVM Pattern • Data Binding</p>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
-<h3>🗄️ Database Design</h3>
-<p><b>Technologies:</b> SQL • JDBC • EF Core</p>
-<p><b>Level:</b> Beginner → Intermediate</p>
-<p>Relational Databases • ORMs<br/>Query Optimization</p>
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"/>
-<h3>🏗️ Software Architecture</h3>
-<p><b>Focus:</b> Patterns • Clean Code</p>
-<p><b>Level:</b> Advanced</p>
-<p>Architectural Patterns<br/>Best Practices • System Design</p>
-</td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/>
-<h3>⚙️ Backend Development</h3>
-<p><b>Technologies:</b> ASP.NET • Node.js</p>
-<p><b>Level:</b> Intermediate → Advanced</p>
-<p>REST APIs • WebSockets<br/>Authentication • Authorization</p>
-</td>
-</tr>
-</table>
-
-</div>
-
-## 💼 Open To
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80"/><br/>
-<b>Collaboration</b><br/>
-<sub>Educational Projects</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="80"/><br/>
-<b>Mentoring</b><br/>
-<sub>Aspiring Developers</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="80"/><br/>
-<b>Consulting</b><br/>
-<sub>Software Architecture</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="80"/><br/>
-<b>Speaking</b><br/>
-<sub>Tech Events</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216654106-c24cc9c0-d319-404e-9bbc-402639637bd9.gif" width="30" /> Profile Summary
-
-<div align="center">
-
-<br/>
-
-![Repositories](https://img.shields.io/badge/Total_Repositories-78+-4A90E2?style=for-the-badge&labelColor=2E5C8A)
-![Stars](https://img.shields.io/badge/Stars_Received-3+-5CA9E8?style=for-the-badge&labelColor=2E5C8A)
-![Followers](https://img.shields.io/badge/Followers-17+-6EC1F7?style=for-the-badge&labelColor=2E5C8A)
-![Following](https://img.shields.io/badge/Following-3-4A90E2?style=for-the-badge&labelColor=2E5C8A)
-
-![](https://komarev.com/ghpvc/?username=arakviel&style=for-the-badge)
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=4A90E2&center=true&vCenter=true&random=false&width=600&lines=Thank+you+for+visiting+my+profile!+%F0%9F%91%8B;Let's+build+something+amazing+together!+%F0%9F%9A%80;Feel+free+to+reach+out+anytime!+%F0%9F%92%AC;Happy+coding!+%E2%9C%A8" alt="Closing Message"/>
-
-<br/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arakviel&bg_color=000000&color=e81e4d&line=e81e4d&point=ffffff&area=true&area_color=e81e4d&hide_border=true&border_radius=8"/>
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,50:5CA9E8,100:6EC1F7&height=120&section=footer"/>
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=arakviel&style=flat-square&color=e81e4d&label=PROFILE+VIEWS)
+
+</div>
