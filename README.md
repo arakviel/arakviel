@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0d0d0d,100:1a0008&height=180&section=header&text=Oleksandr%20Smidt&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Lecturer%20%7C%20Fullstack%20Developer%20%7C%20Tech%20Investor&descSize=15&descAlignY=62&descColor=e81e4d" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0d0d0d,100:1a0008&height=120&section=header&text=Oleksandr%20Smidt&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Software%20Development%20Lecturer%20%7C%20Fullstack%20Developer%20%7C%20Tech%20Investor&descSize=15&descAlignY=68&descColor=e81e4d" width="100%"/>
 
-[![kostyl.dev](https://img.shields.io/badge/kostyl.dev-e81e4d?style=flat-square&logo=googlechrome&logoColor=white&labelColor=111111)](https://github.com/arakviel/kostyl.dev)
+<br/>
+
+[![Website](https://img.shields.io/badge/Website-kostyl.dev%20-e81e4d?style=flat-square&logo=googlechrome&logoColor=white&labelColor=111111)](https://kostyl.dev/)
 [![IT Step](https://img.shields.io/badge/IT%20Step%20Academy-Lecturer-e81e4d?style=flat-square&logo=googlescholar&logoColor=white&labelColor=111111)](https://itstep.org)
 [![UzhNU](https://img.shields.io/badge/UzhNU%20College-Lecturer-ffffff?style=flat-square&logo=googlescholar&logoColor=e81e4d&labelColor=111111)](https://www.college.uzhnu.edu.ua/)
 
